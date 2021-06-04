@@ -1,6 +1,6 @@
 This is a test task project: posts with API
 
-check: https://posts-mu.vercel.app
+check: https://blog-of-posts.vercel.app
 
 ## Tech stack:
 
